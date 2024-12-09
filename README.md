@@ -1,6 +1,6 @@
 # conda-operation
 有关conda的指令
-* 创建虚拟环境,python版本根据需要自己定
+* 创建虚拟环境,python版本根据需要自己定，如果忘记了指定版本可用下面的切换版本指令来指定
 ```
 conda create -n <环境名> python=3.6
 ```

@@ -22,3 +22,8 @@ conda activate <环境名>
 ```
 conda deactivate
 ```
+* 显示所有的已安装的库
+```
+conda list
+```
+`conda list`比`pip list`显示的信息更全，会显示安装的库的下载地址

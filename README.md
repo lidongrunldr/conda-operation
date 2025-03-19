@@ -27,3 +27,7 @@ conda deactivate
 conda list
 ```
 `conda list`比`pip list`显示的信息更全，会显示安装的库的下载地址
+* 列出已有的环境
+```
+conda info --envs
+```

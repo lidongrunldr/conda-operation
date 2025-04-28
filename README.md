@@ -31,3 +31,6 @@ conda list
 ```
 conda info --envs
 ```
+```
+conda env list
+```
